@@ -41,3 +41,18 @@ Features:
 -> Visit the Website: Once deployed, the website will be accessible at the provided URL.
 -> Explore the Content: Navigate through the different pages to learn more about me and my work.
 -> Contact Me: Use the contact form to get in touch.
+
+---> Installation Instructions
+
+-> Clone the Repository
+-> Install Dependencies
+-> Run Locally
+-> Open your browser and navigate
+
+---> Contributing
+
+-> Fork the Repository
+-> Create a new branch
+-> Commit your changes
+-> Push your changes
+-> Submit a pull request explaining your changes
